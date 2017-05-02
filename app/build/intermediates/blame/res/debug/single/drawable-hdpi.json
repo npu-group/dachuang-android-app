@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\android_title_bg.9.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\android_title_bg.9.png"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dialog_bg.9.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\dialog_bg.9.png"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_reg_normal.9.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\login_reg_normal.9.png"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\group_fold_arrow.9.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\group_fold_arrow.9.png"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\android_title_r_button_pressed.9.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\android_title_r_button_pressed.9.png"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\info_bg.9.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\info_bg.9.png"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_limit_buy_btn_immediately_focused.9.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\app_limit_buy_btn_immediately_focused.9.png"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\toast_bg.9.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\toast_bg.9.png"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_button.9.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\bg_button.9.png"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_button_nor.9.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\login_button_nor.9.png"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\add_to_car_button_normal.9.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\add_to_car_button_normal.9.png"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\top_back_leftpress.9.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\top_back_leftpress.9.png"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\add_to_car_button_press.9.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\add_to_car_button_press.9.png"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_moremenu_back.9.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\login_moremenu_back.9.png"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\android_title_r_button.9.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\android_title_r_button.9.png"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_reg_pressed.9.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\login_reg_pressed.9.png"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\card_lable_edit_bg.9.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\card_lable_edit_bg.9.png"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_limit_buy_btn_immediately.9.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\app_limit_buy_btn_immediately.9.png"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\input.9.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\input.9.png"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_bg.9.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\login_bg.9.png"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_button_pressed.9.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\bg_button_pressed.9.png"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search_box.9.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\search_box.9.png"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_logo.9.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\home_logo.9.png"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\card_lable_blue_bg.9.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\card_lable_blue_bg.9.png"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_button_press.9.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\login_button_press.9.png"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\top_button_rightpress.9.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\top_button_rightpress.9.png"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\top_back_left.9.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\top_back_left.9.png"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\title_bar.9.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\title_bar.9.png"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_input.9.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\login_input.9.png"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_cursor_layout_bg.9.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\home_cursor_layout_bg.9.png"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\top_button_right.9.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\top_button_right.9.png"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\no_image.9.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\no_image.9.png"
+    }
+]

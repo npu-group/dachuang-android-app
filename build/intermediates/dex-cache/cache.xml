@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\buy1\app\libs\zxing.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a8fa6078b1a96943028ddaf4412198bb0f119100">
+        <dex dex="F:\buy1\app\build\intermediates\transforms\dex\debug\folders\1000\2\zxing_15705eb8cb99021ab961ee2905109173ae1aba21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\buy1\app\libs\nineoldandroids.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="302641a4becc017c01e83308ee17a484d6f371cd">
+        <dex dex="F:\buy1\app\build\intermediates\transforms\dex\debug\folders\1000\2\nineoldandroids_165eb4a347b66cca4692b0463ea6b1be53cb5cb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\buy1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5f4857c30680db4d3c4fda6ac68517a6481644aa">
+        <dex dex="F:\buy1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a8ec9fa934fba3b1d70b3b8ed982c7258ce14665\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\94822\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="F:\buy1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_e6cfac1c89de34864deb7c7433082ab13c9f21b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\buy1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="66492ac98ecce488c16b0fde72f99c1832e27ab1">
+        <dex dex="F:\buy1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_425d28a5edb76a01e83e908a456c00d1ccc9f42f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\buy1\app\libs\universal-image-loader-1.8.6-with-sources.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ad605dd55be2e74e614b2ab2ff466439c4461b7">
+        <dex dex="F:\buy1\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.8.6-with-sources_d4b30ee8eb0e126097b29323a9af46979c9b4d90\classes.dex" />
+    </item>
+
+</items>
