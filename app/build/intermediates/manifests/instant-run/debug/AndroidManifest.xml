@@ -73,6 +73,8 @@
             android:launchMode="singleTop"
             android:theme="@style/Theme.Present"
             android:windowSoftInputMode="adjustPan" />
+        <activity android:name="com.itau.jingdong.ui.ItemListActivity" />
+        <activity android:name="com.itau.jingdong.ui.DetailActivity" />
         <activity android:name="com.itau.jingdong.login.LoginActivity" />
         <activity android:name="com.itau.jingdong.login.RegisterActivity" />
     </application>

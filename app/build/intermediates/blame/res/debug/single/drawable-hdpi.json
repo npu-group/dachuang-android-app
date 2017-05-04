@@ -88,10 +88,6 @@
         "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\search_box.9.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_logo.9.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\home_logo.9.png"
-    },
-    {
         "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\card_lable_blue_bg.9.png",
         "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\card_lable_blue_bg.9.png"
     },

@@ -40,8 +40,16 @@
         "source": "F:\\buy1\\app\\src\\main\\res\\layout\\activity_search.xml"
     },
     {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_item_list.xml",
+        "source": "F:\\buy1\\app\\src\\main\\res\\layout\\activity_item_list.xml"
+    },
+    {
         "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_clothes.xml",
         "source": "F:\\buy1\\app\\src\\main\\res\\layout\\activity_clothes.xml"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail.xml",
+        "source": "F:\\buy1\\app\\src\\main\\res\\layout\\activity_detail.xml"
     },
     {
         "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_toast.xml",
@@ -50,6 +58,10 @@
     {
         "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "F:\\buy1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_item_list_main.xml",
+        "source": "F:\\buy1\\app\\src\\main\\res\\layout\\activity_item_list_main.xml"
     },
     {
         "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_index_gallery_item.xml",

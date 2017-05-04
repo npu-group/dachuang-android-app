@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\buy1\app\src\main\AndroidManifest.xml:1:1-80:12
+ADDED from F:\buy1\app\src\main\AndroidManifest.xml:1:1-82:12
 	package
 		ADDED from F:\buy1\app\src\main\AndroidManifest.xml:2:5-32
 		INJECTED from F:\buy1\app\src\main\AndroidManifest.xml
@@ -72,7 +72,7 @@ ADDED from F:\buy1\app\src\main\AndroidManifest.xml:20:5-25:40
 	android:anyDensity
 		ADDED from F:\buy1\app\src\main\AndroidManifest.xml:21:9-34
 application
-ADDED from F:\buy1\app\src\main\AndroidManifest.xml:27:5-78:19
+ADDED from F:\buy1\app\src\main\AndroidManifest.xml:27:5-80:19
 	android:label
 		ADDED from F:\buy1\app\src\main\AndroidManifest.xml:31:9-41
 	android:allowBackup
@@ -161,11 +161,19 @@ ADDED from F:\buy1\app\src\main\AndroidManifest.xml:71:9-75:55
 		ADDED from F:\buy1\app\src\main\AndroidManifest.xml:74:13-49
 	android:name
 		ADDED from F:\buy1\app\src\main\AndroidManifest.xml:72:13-46
-activity#com.itau.jingdong.login.LoginActivity
+activity#com.itau.jingdong.ui.ItemListActivity
 ADDED from F:\buy1\app\src\main\AndroidManifest.xml:76:9-66
 	android:name
 		ADDED from F:\buy1\app\src\main\AndroidManifest.xml:76:19-54
-activity#com.itau.jingdong.login.RegisterActivity
-ADDED from F:\buy1\app\src\main\AndroidManifest.xml:77:9-69
+activity#com.itau.jingdong.ui.DetailActivity
+ADDED from F:\buy1\app\src\main\AndroidManifest.xml:77:9-64
 	android:name
-		ADDED from F:\buy1\app\src\main\AndroidManifest.xml:77:19-57
+		ADDED from F:\buy1\app\src\main\AndroidManifest.xml:77:19-52
+activity#com.itau.jingdong.login.LoginActivity
+ADDED from F:\buy1\app\src\main\AndroidManifest.xml:78:9-66
+	android:name
+		ADDED from F:\buy1\app\src\main\AndroidManifest.xml:78:19-54
+activity#com.itau.jingdong.login.RegisterActivity
+ADDED from F:\buy1\app\src\main\AndroidManifest.xml:79:9-69
+	android:name
+		ADDED from F:\buy1\app\src\main\AndroidManifest.xml:79:19-57

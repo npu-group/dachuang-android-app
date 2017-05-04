@@ -90,6 +90,9 @@ public class IndexActivity extends BaseActivity implements OnClickListener,
 	private ImageButton mSearchButton = null;
 	private LinearLayout mTopLayout = null;
 
+	// 首页按钮 跳转 按钮定义：index_promotion_btn
+	private ImageButton IndexPromotionBtn = null;
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
@@ -140,6 +143,10 @@ public class IndexActivity extends BaseActivity implements OnClickListener,
 		mSearchBox = (EditText) findViewById(R.id.index_search_edit);
 		mSearchButton = (ImageButton) findViewById(R.id.index_search_button);
 		mTopLayout = (LinearLayout) findViewById(R.id.index_top_layout);
+
+		// 首页按钮 跳转：index_promotion_btn
+		IndexPromotionBtn = (ImageButton) findViewById(R.id.index_promotion_btn);
+
 	}
 
 	@Override
@@ -223,7 +230,7 @@ public class IndexActivity extends BaseActivity implements OnClickListener,
 		mPromotionGallery.setAdapter(mPromotionAdapter);
 
 		mStormGallery.setSelection(3);
-		mPromotionGallery.setSelection(3);
+		mPromotionGallery.setSelection(4);
 
 		mBarPopupWindow = new HomeSearchBarPopupWindow(this,
 				LayoutParams.MATCH_PARENT, LayoutParams.WRAP_CONTENT);
@@ -231,6 +238,7 @@ public class IndexActivity extends BaseActivity implements OnClickListener,
 
 		mSearchButton.setOnClickListener(this);
 		mSearchBox.setOnClickListener(this);
+		IndexPromotionBtn.setOnClickListener(this);
 
 		mSearchBox.setInputType(InputType.TYPE_NULL);
 	}
@@ -432,6 +440,11 @@ public class IndexActivity extends BaseActivity implements OnClickListener,
 
 		case R.id.index_search_edit:
 			openActivity(SearchActivity.class);
+			break;
+
+		// 首页按钮 跳转：index_promotion_btn
+		case R.id.index_promotion_btn:
+			openActivity(ItemListActivity.class);
 			break;
 
 		default:

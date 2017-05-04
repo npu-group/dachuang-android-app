@@ -73,6 +73,8 @@
             android:launchMode="singleTop"
             android:theme="@style/Theme.Present"
             android:windowSoftInputMode="adjustPan" />
+        <activity android:name=".ui.ItemListActivity"></activity>
+        <activity android:name=".ui.DetailActivity"></activity>
         <activity android:name=".login.LoginActivity"></activity>
         <activity android:name=".login.RegisterActivity"></activity>
     </application>
