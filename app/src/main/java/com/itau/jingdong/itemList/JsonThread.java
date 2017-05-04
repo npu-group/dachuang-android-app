@@ -89,6 +89,7 @@ public class JsonThread extends Thread {
 
                     jsonAdapter=new JsonAdapter(context,handler,students); //传递关键参数MainActivity上下文对象context，MainActivity主线程的handler对象,处理好的List<Student>对象
                     listView.setAdapter(jsonAdapter);
+
                 }
             });
         } catch (MalformedURLException e) {
