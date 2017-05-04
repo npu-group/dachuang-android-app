@@ -15,4 +15,6 @@ public class Global {
 	/** 错误类型 */
 	public static final int REQUEST_SUCCESS = 1000;
 	public static final int UID_OR_PWD_ERROR = 1001;
+
+	public static final String DETAIL_ID = "000";
 }

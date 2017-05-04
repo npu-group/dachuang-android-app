@@ -9,6 +9,8 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.itau.jingdong.R;
+
 import java.util.List;
 
 /**
@@ -51,30 +53,30 @@ public class JsonAdapter extends BaseAdapter {
         ViewHolder holder=null;
 
         if(convertView==null){
-            convertView=inflater.inflate(R.layout.student,null);
+            convertView=inflater.inflate(R.layout.activity_item_list,null);
             holder=new ViewHolder(convertView);
             convertView.setTag(holder);//设置tag
         }else {
             holder= (ViewHolder) convertView.getTag(); //获取tag
         }
         System.out.println(String.valueOf(students.get(position).itemInfo));//测试数据是否正常
-        holder.age.setText(String.valueOf(students.get(position).itemInfo));
-        holder.name.setText(students.get(position).itemTitle);
+        holder.itemInfo.setText(String.valueOf(students.get(position).itemInfo));
+        holder.itemTitle.setText(students.get(position).itemTitle);
         System.out.println(students.get(position).itemTitle);
-        new ImageThread(students.get(position).url, handler,holder.image).start();//开启新线程下载图片并在新线程中更新UI，所以要传递handler对象
+        new ImageThread(students.get(position).url, handler,holder.url).start();//开启新线程下载图片并在新线程中更新UI，所以要传递handler对象
         return convertView;
     }
 
     //用于暂时保存视图对象
     class ViewHolder{
-        public TextView name;
-        public TextView age;
-        public ImageView image;
+        public TextView itemTitle;
+        public TextView itemInfo;
+        public ImageView url;
 
         public ViewHolder(View view){
-            name= (TextView) view.findViewById(R.id.name);
-            age= (TextView) view.findViewById(R.id.age);
-            image= (ImageView) view.findViewById(R.id.imageView);
+            itemTitle= (TextView) view.findViewById(R.id.itemTitle);
+            itemInfo= (TextView) view.findViewById(R.id.itemInfo);
+            url= (ImageView) view.findViewById(R.id.url);
         }
     }
 }

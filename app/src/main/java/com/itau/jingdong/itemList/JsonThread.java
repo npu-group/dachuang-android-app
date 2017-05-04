@@ -42,13 +42,14 @@ public class JsonThread extends Thread {
         try {
             JSONObject object=new JSONObject(data);
             if(object.getInt("data")==1){
-                JSONArray jsonArray=object.getJSONArray("students");
+                JSONArray jsonArray=object.getJSONArray("array");
                 for(int i=0;i<jsonArray.length();i++){
                     JSONObject studentObject= (JSONObject) jsonArray.get(i);
                     Student student=new Student();
                     student.itemTitle=studentObject.getString("itemTitle");
+                    student.itemId=studentObject.getString("itemId");
                     System.out.println(student.itemTitle);
-                    student.itemInfo=studentObject.getInt("itemInfo");
+                    student.itemInfo=studentObject.getString("itemInfo");
                     System.out.println(student.itemInfo);
                     student.url=studentObject.getString("url");
                     System.out.println(student.url);

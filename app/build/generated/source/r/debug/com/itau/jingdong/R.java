@@ -567,7 +567,6 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int index_tehui_gallery=0x7f0d0029;
         public static final int index_top_layout=0x7f0d0014;
         public static final int index_top_logo=0x7f0d002a;
-        public static final int itemImage=0x7f0d0030;
         public static final int itemInfo=0x7f0d0033;
         public static final int itemTitle=0x7f0d0031;
         public static final int linearLayout01=0x7f0d0051;
@@ -613,6 +612,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int tv_region_modify=0x7f0d0057;
         public static final int tv_region_show=0x7f0d0056;
         public static final int tv_top_title=0x7f0d005f;
+        public static final int url=0x7f0d0030;
         public static final int zoomin=0x7f0d000a;
         public static final int zoomout=0x7f0d000b;
     }

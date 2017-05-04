@@ -7,5 +7,6 @@ package com.itau.jingdong.itemList;
 public class Student {
     public String itemTitle;
     public String url;
-    public int itemInfo;
+    public String itemInfo;
+    public String itemId;
 }
