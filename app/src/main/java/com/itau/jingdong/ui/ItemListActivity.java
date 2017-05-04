@@ -69,26 +69,19 @@ public class ItemListActivity extends Activity {
             public void onItemClick(AdapterView<?> arg0, View arg1, int arg2,
                                     long arg3) {
                 // 获取当前点击的listItem
-//                ListView listView = (ListView) arg0;
-//                List<Student> listData = (List<Student>) listView.getItemAtPosition(arg2);
-//                List<Student> listData=new ArrayList<Student>();
+                ListView listView = (ListView) arg0;
+                Student listData = (Student) listView.getItemAtPosition(arg2);
 
 
 //                ListItem listitem = (ListItem) arg0.getItemAtPosition(arg2);
                 //新建一个显式意图，第一个参数为当前Activity类对象，第二个参数为你要打开的Activity类
                 Intent intent = new Intent(ItemListActivity.this, DetailActivity.class);
 //                intent.putExtra("itemId", String.valueOf(listData.get(arg2).get("itemId")));
-                intent.putExtra("itemId", "itemId");
-//                intent.putExtra("itemId", String.valueOf(listData.get(arg2).get("itemId")));
-//                intent.putExtra("itemTitle", String.valueOf(listData.get(arg2).get("itemId")));
-//                intent.putExtra("itemInfo", String.valueOf(listData.get(arg2).get("itemId")));
-//                intent.putExtra("url", String.valueOf(listData.get(arg2).get("itemId")));
+                intent.putExtra("itemId", listData.itemId);
+                intent.putExtra("itemTitle", listData.itemTitle);
+                intent.putExtra("itemInfo", listData.itemInfo);
+                intent.putExtra("url", listData.url);
 
-//                //用Bundle携带数据
-//                Bundle bundle=new Bundle();
-//                //传递name参数为tinyphp
-//                bundle.putString("itemId", String.valueOf(listData.get(arg2).get("itemId")) );
-//                intent.putExtras(bundle);
 
                 startActivity(intent);
             }

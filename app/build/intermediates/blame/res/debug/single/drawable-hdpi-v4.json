@@ -56,12 +56,12 @@
         "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\android_layout_bg.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottom_tab_home_normal.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\main_bottom_tab_home_normal.png"
-    },
-    {
         "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_navigation_background.png",
         "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\main_navigation_background.png"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottom_tab_home_normal.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\main_bottom_tab_home_normal.png"
     },
     {
         "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_setting.png",
