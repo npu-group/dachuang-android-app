@@ -64,20 +64,20 @@
         "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\login_reg_pressed.9.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_limit_buy_btn_immediately.9.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\app_limit_buy_btn_immediately.9.png"
-    },
-    {
         "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\card_lable_edit_bg.9.png",
         "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\card_lable_edit_bg.9.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_bg.9.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\login_bg.9.png"
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_limit_buy_btn_immediately.9.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\app_limit_buy_btn_immediately.9.png"
     },
     {
         "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\input.9.png",
         "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\input.9.png"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_bg.9.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\login_bg.9.png"
     },
     {
         "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_button_pressed.9.png",

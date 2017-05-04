@@ -46,7 +46,7 @@ public class ItemListActivity extends Activity {
     ListView listView;
     Handler handler;
     JsonAdapter jsonAdapter;
-    String url="http://yangzongjun.cn/dachuang/data.php";//这个url随你设置的php页面而变动。
+    String url="http://120.24.97.225/dachuang/action/data.php";//这个url随你设置的php页面而变动。
 
 	// private List<String> data = new ArrayList<String>();
 //    private ListView list = null;
