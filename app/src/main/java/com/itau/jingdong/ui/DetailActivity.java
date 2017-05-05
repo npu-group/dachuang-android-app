@@ -1,6 +1,8 @@
 package com.itau.jingdong.ui;
 
 import android.content.Intent;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
@@ -19,6 +21,12 @@ import com.itau.jingdong.ui.base.BaseActivity;
 import org.json.JSONException;
 import org.json.JSONObject;
 
+import java.io.IOException;
+import java.io.InputStream;
+import java.net.HttpURLConnection;
+import java.net.MalformedURLException;
+import java.net.URL;
+
 /**
  * @author zlei
  *
@@ -33,14 +41,18 @@ import org.json.JSONObject;
  */
 public class DetailActivity extends BaseActivity {
 
-    private TextView textView = null;
+    private TextView itemTitleTextView = null;
+    private TextView itemInfoTextView = null;
     private ImageView imageView = null;
     private Button detailAddToCart = null;
 
     // 文字介绍
     private String itemId = null;
+    private String itemTitle = null;
+    private String itemInfo = null;
+    private String url = null;
 
-    private Handler handler;
+    Handler handler;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -48,14 +60,12 @@ public class DetailActivity extends BaseActivity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_detail);
 
-//		//新页面接收数据
-//		Bundle bundle = this.getIntent().getExtras();
-//		//接收name值
-//		String name = bundle.getString("name");
-//		Log.i("获取到的name值为",name);
 
         Intent intent = getIntent();
         itemId = intent.getStringExtra("itemId");
+        itemTitle = intent.getStringExtra("itemTitle");
+        itemInfo = intent.getStringExtra("itemInfo");
+        url = intent.getStringExtra("url");
         Log.i("获取到的name值为", itemId);
 
 		findViewById();
@@ -65,7 +75,8 @@ public class DetailActivity extends BaseActivity {
 
 	@Override
 	protected void findViewById() {
-        textView = (TextView) findViewById(R.id.itemInfo);
+        itemTitleTextView = (TextView) findViewById(R.id.itemTitle);
+        itemInfoTextView = (TextView) findViewById(R.id.itemInfo);
         imageView = (ImageView) findViewById(R.id.imageView);
         detailAddToCart = (Button) findViewById(R.id.detailAddToCart);
 	}
@@ -76,7 +87,24 @@ public class DetailActivity extends BaseActivity {
         imageView.setImageDrawable(getResources().getDrawable(R.drawable.home_logo));
 
         // 设置介绍文字
-        textView.setText(itemId);
+        // 设置介绍文字
+        itemTitleTextView.setText("标题：" + itemTitle);
+        itemInfoTextView.setText("详细介绍：" + itemInfo);
+
+        // 加载设置图片
+        new Thread(new Runnable() {
+
+            @Override
+            public void run() {
+                // TODO Auto-generated method stub
+                Bitmap bmp = returnBitMap(url);
+                Message msg = new Message();
+                msg.what = Global.DETAIL_IMAGE;
+                msg.obj = bmp;
+                System.out.println("000");
+                handler.sendMessage(msg);
+            }
+        }).start();
 
         handler = new Handler(){
             @Override
@@ -91,10 +119,37 @@ public class DetailActivity extends BaseActivity {
                         break;
                     case Global.LOGIN_ERROR:
                         break;
+                    case Global.DETAIL_IMAGE:
+                        System.out.println("111");
+                        Bitmap bmp=(Bitmap)msg.obj;
+                        imageView.setImageBitmap(bmp);
+                        break;
                 }
             }
         };
 
+    }
+
+    public Bitmap returnBitMap(String url){
+        URL myFileUrl = null;
+        Bitmap bitmap = null;
+        try {
+            myFileUrl = new URL(url);
+        } catch (MalformedURLException e) {
+            e.printStackTrace();
+        }
+        try {
+            HttpURLConnection conn = (HttpURLConnection) myFileUrl
+                    .openConnection();
+            conn.setDoInput(true);
+            conn.connect();
+            InputStream is = conn.getInputStream();
+            bitmap = BitmapFactory.decodeStream(is);
+            is.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return bitmap;
     }
 
     // 加入购物车 按钮点击
@@ -122,52 +177,4 @@ public class DetailActivity extends BaseActivity {
 
     }
 
-//    class AddToCartThread extends Thread{
-//        JSONObject paramJson;
-//        String url;
-//
-//
-//        public AddToCartThread(JSONObject json,String url){
-//            this.paramJson = json;
-//        }
-//
-//        public void run(){
-//            HttpClient httpClient = new DefaultHttpClient();
-//            String url = Global.ADD_TO_CART;
-//            HttpPost post = new HttpPost(url);
-//
-//            StringEntity entity = null;
-//            try {
-//                entity = new StringEntity(this.paramJson.toString(),"utf-8");
-//                entity.setContentEncoding("UTF-8");
-//                entity.setContentType("application/json");
-//                post.setEntity(entity);
-//
-//                // 接收消息
-//                HttpResponse result = httpClient.execute(post);
-//                HttpEntity resEntity = result.getEntity();
-//                BufferedReader reader = new BufferedReader
-//                        (new InputStreamReader(resEntity.getContent()));
-//
-//                String resData = reader.readLine();
-//                JSONObject resJson = new JSONObject(resData);
-//
-//                int feedback = resJson.getInt("feedback");
-//                Message msg = Message.obtain();
-//                msg.what = feedback;
-//                msg.obj = resJson;
-//                handler.sendMessage(msg);
-//            } catch (UnsupportedEncodingException e) {
-//                e.printStackTrace();
-//            } catch (ClientProtocolException e) {
-//                e.printStackTrace();
-//            } catch (IOException e) {
-//                e.printStackTrace();
-//            } catch (JSONException e) {
-//                e.printStackTrace();
-//            }
-//
-//
-//        }
-//    }
 }

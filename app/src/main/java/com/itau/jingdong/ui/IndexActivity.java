@@ -3,6 +3,7 @@ package com.itau.jingdong.ui;
 import java.util.ArrayList;
 import java.util.List;
 
+import android.content.Intent;
 import android.graphics.Paint;
 import android.os.Bundle;
 import android.os.Handler;
@@ -91,7 +92,11 @@ public class IndexActivity extends BaseActivity implements OnClickListener,
 	private LinearLayout mTopLayout = null;
 
 	// 首页按钮 跳转 按钮定义：index_promotion_btn
-	private ImageButton IndexPromotionBtn = null;
+    private ImageButton IndexPromotionBtn = null;
+    private ImageButton IndexRechargeBtn = null;
+    private ImageButton IndexGroupbuyBtn = null;
+    private ImageButton IndexLotteryBtn = null;
+
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -145,7 +150,12 @@ public class IndexActivity extends BaseActivity implements OnClickListener,
 		mTopLayout = (LinearLayout) findViewById(R.id.index_top_layout);
 
 		// 首页按钮 跳转：index_promotion_btn
-		IndexPromotionBtn = (ImageButton) findViewById(R.id.index_promotion_btn);
+        IndexPromotionBtn = (ImageButton) findViewById(R.id.index_promotion_btn);
+        IndexRechargeBtn = (ImageButton) findViewById(R.id.index_recharge_btn);
+        IndexGroupbuyBtn = (ImageButton) findViewById(R.id.index_groupbuy_btn);
+        IndexLotteryBtn = (ImageButton) findViewById(R.id.index_lottery_btn);
+
+
 
 	}
 
@@ -238,7 +248,11 @@ public class IndexActivity extends BaseActivity implements OnClickListener,
 
 		mSearchButton.setOnClickListener(this);
 		mSearchBox.setOnClickListener(this);
-		IndexPromotionBtn.setOnClickListener(this);
+        IndexPromotionBtn.setOnClickListener(this);
+        IndexRechargeBtn.setOnClickListener(this);
+        IndexGroupbuyBtn.setOnClickListener(this);
+        IndexLotteryBtn.setOnClickListener(this);
+
 
 		mSearchBox.setInputType(InputType.TYPE_NULL);
 	}
@@ -430,6 +444,7 @@ public class IndexActivity extends BaseActivity implements OnClickListener,
 
 	@Override
 	public void onClick(View v) {
+		Intent intent;
 		// TODO Auto-generated method stub
 		switch (v.getId()) {
 		case R.id.index_search_button:
@@ -444,7 +459,24 @@ public class IndexActivity extends BaseActivity implements OnClickListener,
 
 		// 首页按钮 跳转：index_promotion_btn
 		case R.id.index_promotion_btn:
-			openActivity(ItemListActivity.class);
+			intent = new Intent(IndexActivity.this, ItemListActivity.class);
+			intent.putExtra("comType", "1");
+			startActivity(intent);
+			break;
+		case R.id.index_recharge_btn:
+			intent = new Intent(IndexActivity.this, ItemListActivity.class);
+			intent.putExtra("comType", "2");
+			startActivity(intent);
+			break;
+		case R.id.index_groupbuy_btn:
+			intent = new Intent(IndexActivity.this, ItemListActivity.class);
+			intent.putExtra("comType", "3");
+			startActivity(intent);
+			break;
+		case R.id.index_lottery_btn:
+			intent = new Intent(IndexActivity.this, ItemListActivity.class);
+			intent.putExtra("comType", "4");
+			startActivity(intent);
 			break;
 
 		default:

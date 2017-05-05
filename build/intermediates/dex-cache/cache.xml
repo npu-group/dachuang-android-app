@@ -2,58 +2,58 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="D:\ZLei_Code\Android\dachuang-android-app\app\libs\universal-image-loader-1.8.6-with-sources.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="9ad605dd55be2e74e614b2ab2ff466439c4461b7">
-        <dex dex="D:\ZLei_Code\Android\dachuang-android-app\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.8.6-with-sources_794c4720771db60c11bfd2c0f0e636c4f7e4d120.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\ZLei_Code\Android\dachuang-android-app\app\libs\nineoldandroids.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="302641a4becc017c01e83308ee17a484d6f371cd">
-        <dex dex="D:\ZLei_Code\Android\dachuang-android-app\app\build\intermediates\pre-dexed\debug\nineoldandroids_77ed93b53e3a6f60707856b2c65d65c0afb2bd97.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Java\SDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="D:\ZLei_Code\Android\dachuang-android-app\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_330a4ad28f9bd5c00bb3c2e71853f55a826cc89a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\ZLei_Code\Android\dachuang-android-app\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="4edd63067aef1d9a2b1ae152a58bbf268ccd2c16">
-        <dex dex="D:\ZLei_Code\Android\dachuang-android-app\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_0cdf204ce5a9e7db6a1655446894823661c44556.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\ZLei_Code\Android\dachuang-android-app\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="17d74f05e42c21f2b1bd3e42fcc1bf68b7520f51">
-        <dex dex="D:\ZLei_Code\Android\dachuang-android-app\app\build\intermediates\pre-dexed\debug\instant-run_94f4b36350cd803020438b7b1b477b347af6d4a0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\ZLei_Code\Android\dachuang-android-app\app\libs\zxing.jar"
+        is-multidex="true"
+        jar="F:\buy1\app\libs\zxing.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="a8fa6078b1a96943028ddaf4412198bb0f119100">
-        <dex dex="D:\ZLei_Code\Android\dachuang-android-app\app\build\intermediates\pre-dexed\debug\zxing_35d4449e480834861e2769b154bea7d96f27cd79.jar" />
+        <dex dex="F:\buy1\app\build\intermediates\transforms\dex\debug\folders\1000\2\zxing_15705eb8cb99021ab961ee2905109173ae1aba21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\buy1\app\libs\nineoldandroids.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="302641a4becc017c01e83308ee17a484d6f371cd">
+        <dex dex="F:\buy1\app\build\intermediates\transforms\dex\debug\folders\1000\2\nineoldandroids_165eb4a347b66cca4692b0463ea6b1be53cb5cb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\buy1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6f7c20040da180e0164300e9527b010a74e49ff0">
+        <dex dex="F:\buy1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a8ec9fa934fba3b1d70b3b8ed982c7258ce14665\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\94822\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="F:\buy1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_e6cfac1c89de34864deb7c7433082ab13c9f21b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\buy1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8f9a26c1430ba6c831bb6e9c79adb81a8c534e3d">
+        <dex dex="F:\buy1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_425d28a5edb76a01e83e908a456c00d1ccc9f42f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\buy1\app\libs\universal-image-loader-1.8.6-with-sources.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ad605dd55be2e74e614b2ab2ff466439c4461b7">
+        <dex dex="F:\buy1\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.8.6-with-sources_d4b30ee8eb0e126097b29323a9af46979c9b4d90\classes.dex" />
     </item>
 
 </items>
