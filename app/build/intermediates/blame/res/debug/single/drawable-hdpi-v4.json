@@ -1,378 +1,378 @@
 [
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_menu_about.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\main_menu_about.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_icon_camera.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\app_icon_camera.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_icon_voice.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\app_icon_voice.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_setting.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\menu_setting.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_pic2.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\login_pic2.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash_bg.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\splash_bg.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_input_arrow.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\login_input_arrow.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_limit_buy_sale.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\app_limit_buy_sale.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_selected_press.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\checkbox_selected_press.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_limit_buy_coming.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\app_limit_buy_coming.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_menu_setup.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\main_menu_setup.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_more.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\login_more.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_shopping_guang_icon.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\home_shopping_guang_icon.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_my_jd_messages.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\android_my_jd_messages.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottom_tab_search_normal.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\main_bottom_tab_search_normal.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_limit_buy_cancel.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\app_limit_buy_cancel.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_input_arrow1.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\login_input_arrow1.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_icon_barcode.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\app_icon_barcode.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_limit_buy_cancel.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\app_limit_buy_cancel.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottom_tab_home_normal.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\main_bottom_tab_home_normal.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_my_jd_orders.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\android_my_jd_orders.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash_loading_bg.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\splash_loading_bg.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_limit_buy_ok_focused.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\app_limit_buy_ok_focused.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\color_shopping_button_bg.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\color_shopping_button_bg.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_personel_waitpay_order.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\android_personel_waitpay_order.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_limit_buy_ok_focused.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\app_limit_buy_ok_focused.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_layout_bg.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\android_layout_bg.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_menu_history.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\main_menu_history.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_navigation_background.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\main_navigation_background.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_menu_setup.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\main_menu_setup.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottom_tab_home_normal.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\main_bottom_tab_home_normal.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_my_jd_orders.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\android_my_jd_orders.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_setting.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\menu_setting.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash_loading_item.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\splash_loading_item.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_findkey.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\menu_findkey.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_personel_all_order.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\android_personel_all_order.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash_logo.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\splash_logo.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_menu_feedback.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\main_menu_feedback.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_limit_buy_sale_bg.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\app_limit_buy_sale_bg.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shortcuts_icon_history.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\shortcuts_icon_history.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_activities_cur.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\android_activities_cur.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast_icon.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\toast_icon.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash_loading_item.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\splash_loading_item.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_clear_normal.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\search_clear_normal.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_unselect_press.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\checkbox_unselect_press.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\divider_horizontal_line.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\divider_horizontal_line.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_guide.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\home_guide.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_icon_color.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\app_icon_color.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottom_tab_home_focus.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\main_bottom_tab_home_focus.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_more_up.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\login_more_up.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shortcuts_icon_order.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\shortcuts_icon_order.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_selected.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\checkbox_selected.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\splash.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_guide.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\home_guide.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_clear_normal.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\search_clear_normal.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\my_personal_click_login.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\my_personal_click_login.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_home_shortcuts_item_bg.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\android_home_shortcuts_item_bg.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shortcuts_icon_life_journey.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\shortcuts_icon_life_journey.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\color_shopping_button_bg.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\color_shopping_button_bg.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_input_arrow.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\login_input_arrow.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shortcuts_icon_life_journey.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\shortcuts_icon_life_journey.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_list_idex.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\android_list_idex.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottom_tab_category_focus.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\main_bottom_tab_category_focus.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_icon_voice.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\app_icon_voice.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_menu_help.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\main_menu_help.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_menu_about.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\main_menu_about.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottom_tab_personal_normal.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\main_bottom_tab_personal_normal.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shortcuts_icon_lottery.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\shortcuts_icon_lottery.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_home_shortcuts_item_bg_focused.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\android_home_shortcuts_item_bg_focused.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottom_tab_search_focus.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\main_bottom_tab_search_focus.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\color_shopping_gap_line.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\color_shopping_gap_line.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottom_tab_search_normal.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\main_bottom_tab_search_normal.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_personel_quickly_order.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\android_personel_quickly_order.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_my_jd_return_repair.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\android_my_jd_return_repair.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_my_jd_discuss.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\android_my_jd_discuss.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_my_jd_account_safe.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\android_my_jd_account_safe.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_limit_buy_coming.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\app_limit_buy_coming.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_slide_promotion.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\home_slide_promotion.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\my_personal_not_login_bg.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\my_personal_not_login_bg.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\splash.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_icon_color.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\app_icon_color.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_menu_exit.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\main_menu_exit.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_limit_buy_gap.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\app_limit_buy_gap.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_navigation_highlight_bg.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\main_navigation_highlight_bg.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_unselect.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\checkbox_unselect.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shortcuts_icon_collect.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\shortcuts_icon_collect.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_exit.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\menu_exit.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_rightbtn_pressed.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\top_rightbtn_pressed.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_limit_buy_begin.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\app_limit_buy_begin.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_clear_pressed.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\search_clear_pressed.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_personel_all_order.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\android_personel_all_order.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_limit_buy_gap.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\app_limit_buy_gap.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_menu_feedback.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\main_menu_feedback.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash_logo.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\splash_logo.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_list_idex.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\android_list_idex.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_navigation_background.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\main_navigation_background.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_search_button_icon.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\android_search_button_icon.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_icon.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\app_icon.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast_icon.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\toast_icon.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_limit_buy_cancel_focused.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\app_limit_buy_cancel_focused.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shortcuts_icon_lottery.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\shortcuts_icon_lottery.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_activities_bg.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\android_activities_bg.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_my_jd_account_safe.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\android_my_jd_account_safe.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\prefresh_list_cutline.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\prefresh_list_cutline.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_icon_barcode.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\app_icon_barcode.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\color_shopping_gap_line.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\color_shopping_gap_line.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottom_tab_category_normal.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\main_bottom_tab_category_normal.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottom_tab_personal_focus.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\main_bottom_tab_personal_focus.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shortcuts_icon_promotion.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\shortcuts_icon_promotion.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_more.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\login_more.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_pic2.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\login_pic2.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash_bg.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\splash_bg.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_search_icon.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\android_search_icon.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_search_icon.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\android_search_icon.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_limit_buy_btn_begin.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\app_limit_buy_btn_begin.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_menu_exit.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\main_menu_exit.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_limit_buy_begin.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\app_limit_buy_begin.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shortcuts_icon_collect.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\shortcuts_icon_collect.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_activities_cur.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\android_activities_cur.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottom_tab_search_focus.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\main_bottom_tab_search_focus.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_rightbtn_normal.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\top_rightbtn_normal.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_my_jd_return_repair.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\android_my_jd_return_repair.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shortcuts_icon_promotion.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\shortcuts_icon_promotion.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottom_tab_cart_focus.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\main_bottom_tab_cart_focus.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_input_arrow1.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\login_input_arrow1.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_limit_buy_btn_begin.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\app_limit_buy_btn_begin.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_limit_buy_sale_bg.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\app_limit_buy_sale_bg.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_my_easy_buy.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\android_my_easy_buy.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\my_personal_not_login_bg.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\my_personal_not_login_bg.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_rightbtn_pressed.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\top_rightbtn_pressed.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_selected_press.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\checkbox_selected_press.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_my_jd_collects.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\android_my_jd_collects.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_activities_gap.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\android_activities_gap.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shortcuts_icon_groupbuy.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\shortcuts_icon_groupbuy.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_more_up.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\login_more_up.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shortcuts_icon_recharge.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\shortcuts_icon_recharge.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\filter_spider_line.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\filter_spider_line.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_unselect.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\checkbox_unselect.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shortcuts_icon_history.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\shortcuts_icon_history.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottom_tab_home_focus.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\main_bottom_tab_home_focus.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_limit_buy_cancel_focused.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\app_limit_buy_cancel_focused.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottom_tab_category_normal.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\main_bottom_tab_category_normal.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_limit_buy_ok.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\app_limit_buy_ok.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottom_tab_category_focus.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\main_bottom_tab_category_focus.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_icon_camera.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\app_icon_camera.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_limit_buy_ok.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\app_limit_buy_ok.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_activities_bg.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\android_activities_bg.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shortcuts_icon_order.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\shortcuts_icon_order.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\prefresh_list_cutline.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\prefresh_list_cutline.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_my_easy_buy.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\android_my_easy_buy.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_icon.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\app_icon.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_search_button_icon.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\android_search_button_icon.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_shopping_icon.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\home_shopping_icon.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_home_shortcuts_item_bg.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\android_home_shortcuts_item_bg.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_limit_buy_sale.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\app_limit_buy_sale.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_my_jd_discuss.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\android_my_jd_discuss.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shortcuts_icon_recharge.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\shortcuts_icon_recharge.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_shopping_icon.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\home_shopping_icon.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_menu_history.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\main_menu_history.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_shopping_guang_icon.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\home_shopping_guang_icon.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shortcuts_icon_groupbuy.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\shortcuts_icon_groupbuy.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_personel_waitpay_order.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\android_personel_waitpay_order.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottom_tab_personal_focus.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\main_bottom_tab_personal_focus.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_findkey.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\menu_findkey.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_selected.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\checkbox_selected.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_menu_help.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\main_menu_help.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_rightbtn_normal.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\top_rightbtn_normal.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottom_tab_cart_focus.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\main_bottom_tab_cart_focus.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_navigation_highlight_bg.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\main_navigation_highlight_bg.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_unselect_press.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\checkbox_unselect_press.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottom_tab_cart_normal.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\main_bottom_tab_cart_normal.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottom_tab_cart_normal.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\main_bottom_tab_cart_normal.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_my_jd_messages.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\android_my_jd_messages.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_layout_bg.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\android_layout_bg.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\divider_horizontal_line.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\divider_horizontal_line.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_exit.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\menu_exit.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\my_personal_click_login.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\my_personal_click_login.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_personel_quickly_order.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\android_personel_quickly_order.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_my_jd_collects.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\android_my_jd_collects.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_activities_gap.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\android_activities_gap.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash_loading_bg.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\splash_loading_bg.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\filter_spider_line.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\filter_spider_line.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_slide_promotion.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\home_slide_promotion.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottom_tab_personal_normal.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\main_bottom_tab_personal_normal.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_clear_pressed.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\search_clear_pressed.png"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_home_shortcuts_item_bg_focused.png",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\drawable-hdpi\\android_home_shortcuts_item_bg_focused.png"
     }
 ]

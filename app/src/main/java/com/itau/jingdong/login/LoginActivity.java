@@ -1,19 +1,5 @@
 package com.itau.jingdong.login;
 
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
-import java.util.ArrayList;
-
-import org.apache.http.HttpEntity;
-import org.apache.http.HttpResponse;
-import org.apache.http.NameValuePair;
-import org.apache.http.client.HttpClient;
-import org.apache.http.client.entity.UrlEncodedFormEntity;
-import org.apache.http.client.methods.HttpPost;
-import org.apache.http.impl.client.DefaultHttpClient;
-import org.apache.http.message.BasicNameValuePair;
-import org.json.JSONObject;
-
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
@@ -27,11 +13,24 @@ import android.view.View.OnClickListener;
 import android.view.Window;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.Toast;
 
 import com.itau.jingdong.R;
 import com.itau.jingdong.global.Global;
 import com.itau.jingdong.ui.HomeActivity;
+
+import org.apache.http.HttpEntity;
+import org.apache.http.HttpResponse;
+import org.apache.http.NameValuePair;
+import org.apache.http.client.HttpClient;
+import org.apache.http.client.entity.UrlEncodedFormEntity;
+import org.apache.http.client.methods.HttpPost;
+import org.apache.http.impl.client.DefaultHttpClient;
+import org.apache.http.message.BasicNameValuePair;
+import org.json.JSONObject;
+
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.util.ArrayList;
 
 /**登陆界面activity*/
 public class LoginActivity extends Activity implements OnClickListener{
@@ -81,6 +80,7 @@ public class LoginActivity extends Activity implements OnClickListener{
 				super.handleMessage(msg);
 				switch (msg.what) {
 					case Global.LOGIN_SUCCESS:
+
 						Intent intents = new Intent(LoginActivity.this, HomeActivity.class);
 						startActivity(intents);
 						break;
@@ -178,6 +178,7 @@ public class LoginActivity extends Activity implements OnClickListener{
 						JSONObject resJson = new JSONObject(result);
 						
 						if(resJson.getInt("result") == Global.REQUEST_SUCCESS){
+                            Global.UID = this.uid;
 							mHandler.sendEmptyMessage(Global.LOGIN_SUCCESS);
 							Log.d("zlei","success");
 						}else{

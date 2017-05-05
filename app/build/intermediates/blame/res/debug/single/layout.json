@@ -1,78 +1,78 @@
 [
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_search_toolbar_button.xml",
-        "source": "F:\\buy1\\app\\src\\main\\res\\layout\\app_search_toolbar_button.xml"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_search_toolbar_button.xml",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\layout\\app_search_toolbar_button.xml"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_model.xml",
-        "source": "F:\\buy1\\app\\src\\main\\res\\layout\\activity_model.xml"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\layout\\login.xml"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
-        "source": "F:\\buy1\\app\\src\\main\\res\\layout\\activity_splash.xml"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_toast.xml",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\layout\\custom_toast.xml"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_index.xml",
-        "source": "F:\\buy1\\app\\src\\main\\res\\layout\\activity_index.xml"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_personal.xml",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\layout\\activity_personal.xml"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
-        "source": "F:\\buy1\\app\\src\\main\\res\\layout\\register.xml"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_model.xml",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\layout\\activity_model.xml"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\car.xml",
-        "source": "F:\\buy1\\app\\src\\main\\res\\layout\\car.xml"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\layout\\activity_search.xml"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
-        "source": "F:\\buy1\\app\\src\\main\\res\\layout\\activity_home.xml"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_clothes.xml",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\layout\\activity_clothes.xml"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_personal.xml",
-        "source": "F:\\buy1\\app\\src\\main\\res\\layout\\activity_personal.xml"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_item_list.xml",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\layout\\activity_item_list.xml"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
-        "source": "F:\\buy1\\app\\src\\main\\res\\layout\\login.xml"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\layout\\register.xml"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
-        "source": "F:\\buy1\\app\\src\\main\\res\\layout\\activity_search.xml"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_digital.xml",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\layout\\activity_digital.xml"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_item_list.xml",
-        "source": "F:\\buy1\\app\\src\\main\\res\\layout\\activity_item_list.xml"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail.xml",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\layout\\activity_detail.xml"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_clothes.xml",
-        "source": "F:\\buy1\\app\\src\\main\\res\\layout\\activity_clothes.xml"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\layout\\activity_splash.xml"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail.xml",
-        "source": "F:\\buy1\\app\\src\\main\\res\\layout\\activity_detail.xml"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_index_gallery_item.xml",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\layout\\activity_index_gallery_item.xml"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "F:\\buy1\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_toast.xml",
-        "source": "F:\\buy1\\app\\src\\main\\res\\layout\\custom_toast.xml"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\layout\\activity_home.xml"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_item_list_main.xml",
-        "source": "F:\\buy1\\app\\src\\main\\res\\layout\\activity_item_list_main.xml"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_item_list_main.xml",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\layout\\activity_item_list_main.xml"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_index_gallery_item.xml",
-        "source": "F:\\buy1\\app\\src\\main\\res\\layout\\activity_index_gallery_item.xml"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\car.xml",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\layout\\car.xml"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_digital.xml",
-        "source": "F:\\buy1\\app\\src\\main\\res\\layout\\activity_digital.xml"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_bar.xml",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\layout\\title_bar.xml"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_bar.xml",
-        "source": "F:\\buy1\\app\\src\\main\\res\\layout\\title_bar.xml"
+        "merged": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_index.xml",
+        "source": "D:\\ZLei_Code\\Android\\dachuang-android-app\\app\\src\\main\\res\\layout\\activity_index.xml"
     }
 ]
