@@ -264,12 +264,12 @@
         "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\top_rightbtn_pressed.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
-    },
-    {
         "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_activities_gap.png",
         "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\android_activities_gap.png"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
         "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_more_up.png",
@@ -320,12 +320,12 @@
         "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\shortcuts_icon_recharge.png"
     },
     {
-        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shortcuts_icon_groupbuy.png",
-        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\shortcuts_icon_groupbuy.png"
-    },
-    {
         "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_menu_history.png",
         "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\main_menu_history.png"
+    },
+    {
+        "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shortcuts_icon_groupbuy.png",
+        "source": "F:\\buy1\\app\\src\\main\\res\\drawable-hdpi\\shortcuts_icon_groupbuy.png"
     },
     {
         "merged": "F:\\buy1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottom_tab_personal_focus.png",
